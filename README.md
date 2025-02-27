@@ -8,10 +8,14 @@ SCSS Preprocessor – Enhances CSS with variables, mixins, and modular styling.
 Modern UI & UX – Well-structured layout with clear sections and typography.
 Optimized Performance – Clean and efficient code for fast loading.
 Structured Components – Reusable design elements for scalability.
+
+
 🛠️ Technologies Used
 HTML – Structuring the content.
 CSS & SCSS – Styling and maintaining responsive layouts.
 Remix Icons – Used for enhanced visual elements.
+
+
 📌 Project Structure
 graphql
 Copy
@@ -22,6 +26,9 @@ Edit
 │── style.scss         # SCSS file for styling  
 │── style.css.map      # Source map file  
 │── images/            # Folder for images  
+
+
+
 🎯 Future Improvements
 Implement JavaScript for interactive features.
 Enhance animations and transitions for a smoother experience.
